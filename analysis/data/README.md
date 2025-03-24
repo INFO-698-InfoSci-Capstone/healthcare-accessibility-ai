@@ -1,7 +1,9 @@
 # README for data used in TBD
 
 ## Overview 
-Data used for manuscript: TBD
+
+This repository contains three datasets used to analyze healthcare accessibility and social determinants of health at the U.S. census tract level. The datasets include: (1) socioeconomic indicators from the American Community Survey (ACS), (2) spatial proximity to various healthcare facility types based on geographic buffers, and (3) tract-level public health indicators from the CDC PLACES dataset. These combined data support a comprehensive assessment of healthcare access disparities by integrating geospatial, demographic, and health outcome variables.
+
 
 ***
 
