@@ -1,4 +1,4 @@
-# README for data used in TBD
+# README for data used in healthcare-accessibility-ai
 
 ## Overview 
 
