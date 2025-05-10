@@ -1,36 +1,31 @@
-# Project compendium template
+# AI Healthcare Accessibility
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
-#### TBD
-
+**Authors:** Ansh Dev, Akash Satpathy, Himanshu Nimbarte, and Jay Patil  
+**Affiliation:** VIP Capstone Project (INFO 698) - College of Information Science
 
 ## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
+This project leverages AI to improve healthcare accessibility insights across U.S. census tracts. It replaces traditional siloed spreadsheets and manual GIS workflows with a unified, AI-powered platform for instant, tract-level insights.
+
+- Harmonize multi-source data into a single feature store.
+- Visualize healthcare access metrics using interactive heatmaps and dashboards.
+- Generate policy briefs and plain-language answers via a Gen-AI Q&A assistant.
+
 
 ## File Organization
+Healthcare-Accessibility-AI 
 
-    analysis/
-    |
-    ├── logs/
-    │   └── log.md          # log of any progress or relevant information
-    |
-    ├── figures/            # location of the figures produced for the manuscript
-    |
-    ├── data/
-    |   ├── rawData/        # data obtained from elsewhere
-    │   └── derivedData/    # data generated from rawData/ and scripts.*
-    |   
-    └── supplementaryMaterials/
-        ├── supplementaryFigures/     
-        |                   # supplementary figures for the main manuscript
-        └── supplementaryTables/      
-                            # supplementary tables for the main manuscript 
+├── analysis
+│   ├── data/
+|       ├── rawData/        # data obtained from elsewhere
+│       └── derivedData/    # data generated from rawData/ and scripts.* 
+│   ├── logs/
+│       └── log.md          # log of any progress or relevant information 
+├── src
+│   └── README.md
+├── CONDUCT.md
+├── DESCRIPTION
+├── LICENSE
+└── README.md
     
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
-
-        
-
