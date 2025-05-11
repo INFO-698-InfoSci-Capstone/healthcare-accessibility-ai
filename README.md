@@ -37,7 +37,7 @@ Healthcare-Accessibility-AI/
 │   ├── pages/               # multi-page Streamlit layout files
 │   ├── utils/               # functions and backend logic
 │   ├── Home.py              # python script for the dashboard
-│   ├── requirements.txt     # dependencies to run the dashboard
+│   └── requirements.txt     # dependencies to run the dashboard
 ├── src/
 │   └── README.md
 ├── CONDUCT.md
