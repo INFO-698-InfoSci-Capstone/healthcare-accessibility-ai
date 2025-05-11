@@ -31,6 +31,7 @@ Healthcare-Accessibility-AI/
 │   │   └── derivedData/     # data generated from rawData/ and scripts.*
 │   ├── logs/
 │   │   └── log.md           # log of any progress or relevant information
+│   └── scripts/             # scripts used for data processing/analysis
 ├── healthcare_application/
 │   ├── data/                # data used by the Streamlit app
 │   ├── pages/               # multi-page Streamlit layout files
