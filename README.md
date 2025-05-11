@@ -12,20 +12,21 @@ This project leverages AI to improve healthcare accessibility insights across U.
 - Visualize healthcare access metrics using interactive heatmaps and dashboards.
 - Generate policy briefs and plain-language answers via a Gen-AI Q&A assistant.
 
-
 ## File Organization
-Healthcare-Accessibility-AI 
 
-├── analysis
+```
+Healthcare-Accessibility-AI/
+├── analysis/
 │   ├── data/
-|       ├── rawData/        # data obtained from elsewhere
-│       └── derivedData/    # data generated from rawData/ and scripts.* 
+│   │   ├── rawData/         # data obtained from elsewhere
+│   │   └── derivedData/     # data generated from rawData/ and scripts.*
 │   ├── logs/
-│       └── log.md          # log of any progress or relevant information 
-├── src
+│   │   └── log.md           # log of any progress or relevant information
+├── src/
 │   └── README.md
 ├── CONDUCT.md
 ├── DESCRIPTION
-├── LICENSE
-└── README.md
+├── LICENSE                
+└── README.md              
+```
     
