@@ -45,3 +45,10 @@ Healthcare-Accessibility-AI/
 ├── LICENSE                
 └── README.md              
 ```
+## Try It Out
+
+Scan the QR code below to launch the live demo, or click the link if you’re on desktop:
+
+[![Scan to Open Demo](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://qr.link/rchkuO)](https://qr.link/rchkuO)
+
+**Live Demo:** [https://qr.link/rchkuO](https://qr.link/rchkuO)
