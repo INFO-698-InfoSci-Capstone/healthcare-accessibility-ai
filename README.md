@@ -5,6 +5,8 @@
 **Authors:** Ansh Dev, Akash Satpathy, Himanshu Nimbarte, and Jay Patil  
 **Affiliation:** VIP Capstone Project (INFO 698) - College of Information Science
 
+Dashboard Link: https://healthcare-application-fdkwtldzaq5mtthgvldkl7.streamlit.app
+
 ## Overview
 
 This project leverages AI to improve healthcare accessibility insights across U.S. census tracts. It replaces traditional siloed spreadsheets and manual GIS workflows with a unified, AI-powered platform for instant, tract-level insights.
